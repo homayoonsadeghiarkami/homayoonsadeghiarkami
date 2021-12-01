@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **homayoon.9171@gmail.com**
 
-- ⚡ What I like to do: **Reading 📖, swimming 🏊‍♀️ and mountaineering 🏔...and coding 💻 of course + listening to music 🎵**
+- ⚡ Other Interests: **Norse Mythology & Etymology Enthusiast**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
