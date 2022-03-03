@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Homayoon <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">I am interested in research on the following topics such as Cloud Insfrastructure, DecSecOps, SRE, DevOps, CTF ,Software Vulnerability Research, Reliable and Weaponized Exploit Development and Web App Penetration Testing</h3>
+<h3 align="center">I am interested in research on the following topics such as Cloud Infrastructure, DevSecOps, SRE, DevOps, CTF ,Software Vulnerability Research, System Design and SDN [SDS]</h3>
 
 <!-- - 🔭 I’m currently working on **SDN & SDS** -->
 
